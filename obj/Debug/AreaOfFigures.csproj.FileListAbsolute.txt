@@ -1,0 +1,6 @@
+C:\Users\Karpacho Kapitovsky\source\repos\AreaOfFigures\bin\Debug\AreaOfFigures.dll
+C:\Users\Karpacho Kapitovsky\source\repos\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\Karpacho Kapitovsky\source\repos\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\Karpacho Kapitovsky\source\repos\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Karpacho Kapitovsky\source\repos\AreaOfFigures\obj\Debug\AreaOfFigures.dll
+C:\Users\Karpacho Kapitovsky\source\repos\AreaOfFigures\obj\Debug\AreaOfFigures.pdb
