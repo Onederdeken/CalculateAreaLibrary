@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Karpacho Kapitovsky\\source\\repos\\AreaOfFigures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F9C99FD-B38E-40BA-8149-D3F0EF3A46C9}|Tests\\Tests\\Tests.csproj|c:\\users\\karpacho kapitovsky\\source\\repos\\areaoffigures\\tests\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F9C99FD-B38E-40BA-8149-D3F0EF3A46C9}|Tests\\Tests\\Tests.csproj|solutionrelative:tests\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karpacho Kapitovsky\\source\\repos\\AreaOfFigures\\Tests\\Tests\\Tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\Tests\\Tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAB53F7B-CE85-4786-A450-80FF2263D7E8}|AreaOfFigures.csproj|c:\\users\\karpacho kapitovsky\\source\\repos\\areaoffigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAB53F7B-CE85-4786-A450-80FF2263D7E8}|AreaOfFigures.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karpacho Kapitovsky\\source\\repos\\AreaOfFigures\\Circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAB53F7B-CE85-4786-A450-80FF2263D7E8}|AreaOfFigures.csproj|c:\\users\\karpacho kapitovsky\\source\\repos\\areaoffigures\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAB53F7B-CE85-4786-A450-80FF2263D7E8}|AreaOfFigures.csproj|solutionrelative:area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karpacho Kapitovsky\\source\\repos\\AreaOfFigures\\Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Circle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T21:05:32.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T21:05:32.51Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Tests\\Tests\\Tests.cs",
               "ToolTip": "C:\\Users\\Karpacho Kapitovsky\\source\\repos\\AreaOfFigures\\Tests\\Tests\\Tests.cs",
               "RelativeToolTip": "Tests\\Tests\\Tests.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAA+wE4AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T20:54:46.214Z",
               "EditorCaption": ""
@@ -60,8 +59,11 @@
               "RelativeToolTip": "Area.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T20:52:33.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T20:52:33.846Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
